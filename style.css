@@ -66,6 +66,10 @@ nav ul img{
     margin-top: 20px;
 }
 
+.parent .top p a{
+    color: rgb(88, 172, 255);
+}
+
 .parent .bottom{
     margin: auto;
     width: 30rem;
